@@ -1,4 +1,4 @@
-# ML-Real-Life-Examples
+# Machine Learning Real Life Examples
 Machine learning real life examples made by me. These include coding examples and explanations on the problems being addressed + the model results from the dataset.
 
 ## Table of Contents
