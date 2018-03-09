@@ -20,9 +20,9 @@ Machine learning real life examples made by me. These include coding examples an
 
      The new employee has told us that he has 20+ years' experience and has earned over 160k salary in his previous company of employment and is asking for this as a starting wage. Doing research on the previous company we identified ten positions and the salary per position.
 
-     Based on the position data we have, we have determined that they are around a level of 6.5 and want to be accurate with the salary. Looking at the data we can see that there is a non-linear relationship and we need to put a model together to determine the new employee's starting salary.
+     Based on the position data we have, we have determined that the new employee is around a level of 6.5 and want to be accurate with the salary. Looking at the data we can see that there is a non-linear relationship and we need to put a model together to determine the new employee's starting salary.
 
-     In order to complete this problem we are going to experiment with four non-linear regression models: polynomial regression, SVR, decision tree regression and random forest regression.
+     In order to complete this problem we are going to use a polynomial regression.
 
 * [Classification]()
    * [Problem 1]()
