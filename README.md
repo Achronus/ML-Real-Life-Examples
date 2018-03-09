@@ -13,7 +13,7 @@ Machine learning real life examples made by me. These include coding examples an
 
      Using a small sample of their data, they want to determine where companies perform better based on the state they are in through the use of Marketing Spend, Administration or R&D Spend.
 
-    Using a multiple linear regression we can help them to identify this.
+     Using a multiple linear regression we can help them to identify this.
 
    * [Problem 3](https://github.com/Achronus/ML-Real-Life-Examples/wiki/Regression#problem-3)
      We are a part of the human resources department in a large company and are looking to hire a new employee. We have found the ideal candidate and are considering making an offer to them. However, we are unsure on the appropriate salary for their position.
