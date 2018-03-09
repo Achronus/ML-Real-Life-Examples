@@ -2,16 +2,16 @@
 Machine learning real life examples made by me. These include coding examples and explanations on the problems being addressed + the model results from the dataset.
 
 ## Table of Contents
-* [Regression](#Regression)
+* [Regression](#regression)
    * [Problem 1](#problem-1)
    * [Problem 2](#problem-2)
    * [Problem 3](#problem-3)
-* [Classification](#Classification)
-   * [Problem 1](#problem-1)
-* [Clustering](#Clustering)
-   * [Problem 1](#problem-1)
-* [Dimensionality Reduction](#Dimensionality-Reduction)
-   * [Problem 1](#problem-1)
+* [Classification](#classification)
+   * [Problem 1](#problem-1-1)
+* [Clustering](#clustering)
+   * [Problem 1](#problem-1-2)
+* [Dimensionality Reduction](#dimensionality-reduction)
+   * [Problem 1](#problem-1-3)
 
 ## Regression
 
